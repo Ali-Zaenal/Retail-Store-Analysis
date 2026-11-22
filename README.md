@@ -12,13 +12,13 @@ This project analyzes Retail Sales to evaluate business performance and customer
 * CTEs, Window Functions, Joins, Cohort Modeling, Data Imputation
 
 ## 🔍 Key Workflow & Methodology
-1. **Data Cleaning & Preprocessing:** 
+1. **Data Cleaning & Preprocessing:**  -- [View sql script]
    * Handled missing values, removed duplicate records, and standardized formats.
    * Filtered out "Returned" and "Cancelled" orders.
-2. **Growth Analysis:** 
+2. **Growth Analysis:**  -- [View sql script]
    * Measured Month-over-Month (MoM) growth across key metrics such as active customers, revenue, and growth percentage.
    * Identified seasonal trends and peak acquisition periods.
-3. **Cohort Analysis:** 
+3. **Cohort Analysis:**  -- [View sql script]
    * Grouped users into monthly acquisition cohorts based on their first purchase.
    * Calculate customer retention percentage.
    * Calculate Yearly new customer acquisition.
