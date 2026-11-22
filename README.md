@@ -38,7 +38,10 @@ This project analyzes Retail Sales to evaluate business performance and customer
      
      <img width="512" height="283" alt="cohort_rate_2" src="https://github.com/user-attachments/assets/61bf4039-d3d0-45d8-b362-ca049acfa586" />
 
-
+## ⚠️ Data Limitations
+* Only four years of historical data (2022-Jan to 2025-Des).
+* No geographic information.
+* No customer feedback.
 
 ## 💡 Key Insights & Findings
 * **Insight 1:**
