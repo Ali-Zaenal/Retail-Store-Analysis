@@ -1,6 +1,6 @@
 # Retail Store Analysis
 End-to-end data analysis project featuring data cleaning, growth tracking, and cohort retention analysis to uncover key business drivers.
-`SQL` `BigQuery` `Data Cleaning` `Cohort Retention` `CTEs` `Window Function` `Joins`
+
 
 
 # Data Cleaning, Growth Analysis & Customer Retention
@@ -10,7 +10,7 @@ This project analyzes Retail Sales to evaluate business performance and customer
 
 ## 🛠️ Tools & Technologies
 * **Language:** SQL, BigQuery
-* CTEs, Window Functions, Joins, Cohort Modeling, Data Imputation
+* `SQL` `BigQuery` `Data Cleaning` `Cohort Retention` `CTEs` `Window Function` `Joins`
 
 ## 🔍 Key Workflow & Methodology
 1. **Data Cleaning & Preprocessing:**  -- [View sql queries](data-cleaning.sql)
